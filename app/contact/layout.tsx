@@ -36,7 +36,7 @@ const contactStructuredData = {
 	mainEntity: {
 		"@type": "ProfessionalService",
 		name: "Rod16 Photography",
-		email: "rod16zedo@gmail.com",
+		email: "info@rod16photo.com",
 		areaServed: {
 			"@type": "GeoCircle",
 			geoMidpoint: {
